@@ -6,4 +6,4 @@
 - I'm keen on open-source/free software
 - If you want to contact me, my email is mskukovski@vk.com
 - You can find me on Twitter as @pktr_Ruski
-- A fun fact about me? Umm, Ubuntu is my favourite OS
+- A fun fact about me? Umm, I use GarudaLinux
